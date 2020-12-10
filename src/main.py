@@ -1,5 +1,7 @@
 import requests
 
+_QUOTE_URL = 'https://quotes.rest/qod'
+
 def get_random_quote():
     """Get a random quote."""
 
