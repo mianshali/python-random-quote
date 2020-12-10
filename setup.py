@@ -4,7 +4,7 @@ setup(
     name='randomquote',
     version='0.1',
     description='Get a random quote',
-    url='https://github.com/mianshali/python-random-quote.git',
+    url='https://github.com/mianshali/python3-random.git',
     author='mian ali',
     author_email='mianshali5@gmail.com',
     license='MIT',
