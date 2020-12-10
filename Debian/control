@@ -1,4 +1,4 @@
-Source: python-random
+Source: python3-random
 Maintainer: mian ali <mianshali5@gmail.com>
 Build-Depends: debhelper,dh-python,python3-all,python3-setuptools
 Section: devel
